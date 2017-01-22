@@ -1,0 +1,6 @@
+---
+test1: test1_spec.rb
+test2: test2_spec.rb
+test3: test3_spec.rb
+test4: test4_spec.rb
+test5: test5_spec.rb
