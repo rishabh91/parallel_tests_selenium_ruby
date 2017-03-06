@@ -17,6 +17,7 @@ describe "Parallel try" do
     
 
     it "Get google homepage" do 
+    	sleep 30
     	@test1.get("https://www.google.com")
     	
     end
